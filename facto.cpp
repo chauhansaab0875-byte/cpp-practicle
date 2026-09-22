@@ -7,7 +7,8 @@ int fact(int n ){
     factorial*=i;
    }
    return factorial;
-}
+} 
+// add changes if want 
 
 
 int main(){
